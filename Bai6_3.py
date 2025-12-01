@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 class Nguoi:
     def getGender(self):
         return "Unknown"

@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 class Hinhchunhat:
     def __init__(self, dai, rong):
         self.chieu_dai = dai
